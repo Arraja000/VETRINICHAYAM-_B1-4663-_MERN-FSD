@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#rest{
+    color: aliceblue;
+   
+}
+.p1,.p2{
+    color: aliceblue;
+    
+}
+.container{
+
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+ 
+}
+#rollbutton{
+    background-color: rgb(20, 231, 38);
+   height: 6%;
+   width: 20%;
+   border-radius: 100%;
+ 
+}
